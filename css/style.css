@@ -43,14 +43,14 @@ main:after {
 }
 
 
-.right li{
+.right div {
   background-color: pink;
   width: 100%;
-  height: 350px;
+  height: 290px;
   list-style-type: none;
 }
 
-.right li:first-child {
+.right :first-child {
   margin-bottom: 20px;
 }
 /* fine main */
